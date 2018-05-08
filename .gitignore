@@ -8,11 +8,10 @@ CMakeCache.txt
 CTestTestfile.cmake
 cmake-build-debug
 DartConfiguration.tcl
-Cpp/Cpp
-Cpp/Makefile
-Cpp/UnitTests
-Cpp/cmake_install.cmake
-Cpp/*.pc
+Makefile
+UnitTests
+cmake_install.cmake
+*.pc
 googletest-build
 googletest-download
 googletest-src
